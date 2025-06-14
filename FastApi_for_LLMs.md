@@ -1,4 +1,13 @@
+---
+- Source: Youtube
+- video_id: uDUfZyNXFX0
+- channel: pixegami
+- date: 2025-06-10 
+---
+
 # Setting a fastAPI end point for LLMs
+
+- reference: **video_id:** uDUfZyNXFX0
 
 ## Introduction
 
